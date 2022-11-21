@@ -1,4 +1,4 @@
-# 项目架构设计
+# 架构设计
 
 ![整体设计](images/architect.png)
 ![缓冲块设计](images/block_design.png)
